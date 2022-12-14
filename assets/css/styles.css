@@ -4,6 +4,8 @@ body {
 
     h1 {
         color: darkmagenta;
+        position: relative;
+        left: 46%;
         display: block;
         font: bolder;
         font-size: x-large;
@@ -20,10 +22,18 @@ body {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 50%;
+        width: 25%;
       }
 
-      .footer {
+      form {
+        position: relative;
+        left: 0;
+        width: 100%;
+        color: magenta;
+        text-align: center;
+      }
+
+      h5 {
         position: fixed;
         left: 0;
         bottom: 0;
