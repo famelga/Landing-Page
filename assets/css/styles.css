@@ -12,6 +12,13 @@ body {
         font-family: Arial, Helvetica, sans-serif;
     }
 
+ ul {
+    color: magenta;
+    position: relative;
+    left: 43%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
     h3 {
         color: magenta;
         font: bold;
