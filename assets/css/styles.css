@@ -4,6 +4,7 @@ body {
 
     h1 {
         color: darkmagenta;
+        display: block;
         font: bolder;
         font-size: x-large;
         font-family: Arial, Helvetica, sans-serif;
@@ -21,3 +22,7 @@ body {
         margin-right: auto;
         width: 50%;
       }
+
+    h5[
+        bottom 0
+    ]
